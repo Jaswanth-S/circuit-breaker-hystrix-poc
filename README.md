@@ -51,7 +51,7 @@ This project contains:
     
      --> create spring-boot application from https://start.spring.io/ 
     
-          with com.stackroute as group Id, circuit-breaker-bookstore as artifact Id and java version is 11.
+          with com.stackroute as group Id, circuit-breaker-reading as artifact Id and java version is 11.
     
           Depedencies to be added is (web,Hystrix).
           
